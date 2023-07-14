@@ -1,4 +1,4 @@
-<div align="center"font=Fira+Code>
+<div align="center"+font=Fira+Code>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=FFFFFF&center=true&vCenter=true&width=435&lines=Data+Analyst;Python;Power+Bi;Learning+to+Ethical+hack)](https://git.io/typing-svg)
 
