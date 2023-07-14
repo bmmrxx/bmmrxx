@@ -1,6 +1,5 @@
 <p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=FFFFFF&center=true&vCenter=true&width=435&lines=Data+Analist;Python;Power+Bi;Learning+to+Ethical+hack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?        font=Fira+Code&pause=700&color=FFFFFF&center=true&vCenter=true&width=435&lines=Data+Analist;Python;Power+Bi;Learning+to+Ethical+hack)](https://git.io/typing-svg)
 
 
 ![banner](https://github.com/bmmrxx/bmmrxx/assets/139537072/8859d8c1-10d0-4aa6-a832-a14e88020d40)
