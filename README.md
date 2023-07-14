@@ -13,9 +13,8 @@ Join me as I embrace the exciting world of data analysis, Python programming, an
 Feel free to explore my repositories, check out my pinned projects, and connect with me on social media. Together, let's unlock the potential of data and shape a better future.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmmrxx&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmmrxx&layout=compact&theme=tokyonight)](https://github.com/bmmrxx)
-
 ![banner](https://github.com/bmmrxx/bmmrxx/assets/139537072/8859d8c1-10d0-4aa6-a832-a14e88020d40)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmmrxx&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmmrxx&layout=compact&theme=tokyonight)](https://github.com/bmmrxx)
 </div>
