@@ -1,4 +1,4 @@
-![banner](https://github.com/bmmrxx/bmmrxx/assets/139537072/9ba022c8-6212-4a17-bc40-1ce07f4d25c5)
+![banner (1)](https://github.com/bmmrxx/bmmrxx/assets/139537072/6aad39df-e53f-4d47-b556-ce6e5d6dc31a)
 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=bmmrxx)](https://github.com/bmmrxx)
