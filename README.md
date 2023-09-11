@@ -11,7 +11,7 @@ Here on my GitHub, you'll find a collection of my projects, where I explore vari
 
 Join me as I embrace the exciting world of data analysis and Python programming. Let's collaborate, learn from each other, and inspire innovation!
 
-Feel free to explore my repositories, check out my pinned projects.Together, let's unlock the potential of data and shape a better future.
+Feel free to explore my repositories, check out my pinned projects. Together, let's unlock the potential of data and shape a better future.
 
 
 ![banner](https://github.com/bmmrxx/bmmrxx/assets/139537072/8859d8c1-10d0-4aa6-a832-a14e88020d40)
