@@ -1,6 +1,6 @@
 <div align="center">
 
-
+# Welcome to my GitHub profile!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=FFFFFF&center=true&vCenter=true&width=435&lines=;Python;Power+Bi;Jupyter+Notebook;SQL-lite;PHP;Java;HTML;CSS;JavaScript;Docker;Azure+Cloud;Flask;Symfony;HeidiSQL;WSL;Vue+JS)](https://git.io/typing-svg)
 
