@@ -6,7 +6,7 @@
 
 
 
-Currently, I'm a student at the bit academy. Here I'm getting my degree as software developer.
+SoftWare Developer
 
 I'm working towards becoming a cyber security developer! I'm currently learning multiple programming languages and technologies. 
 
