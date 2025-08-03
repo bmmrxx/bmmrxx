@@ -6,7 +6,7 @@
 
 
 
-SoftWare Developer
+Software Developer
 
 I'm working towards becoming a cyber security developer! I'm currently learning multiple programming languages and technologies. 
 
