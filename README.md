@@ -16,4 +16,4 @@ I'm learning various programming languages and technologies to prepare myself fo
 ## My next goals are to get certified in at least one of the following:
 
 - AZ-900 Microsoft Azure Fundamentals
-- MS-900 Microsoft 365 Fundamentals
+- MS-900 Microsoft 365 Fundamentals 🎉
